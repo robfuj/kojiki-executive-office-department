@@ -1,0 +1,85 @@
+{
+  "department": "20-executive-office",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 7,
+  "bots": [
+    {
+      "slug": "executive-priorities",
+      "sub_function": "Executive Priorities",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    },
+    {
+      "slug": "decision-management",
+      "sub_function": "Decision Management",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    },
+    {
+      "slug": "cross-functional-coordination",
+      "sub_function": "Cross-Functional Coordination",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    },
+    {
+      "slug": "strategic-initiatives",
+      "sub_function": "Strategic Initiatives",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    },
+    {
+      "slug": "executive-intelligence",
+      "sub_function": "Executive Intelligence",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    },
+    {
+      "slug": "decision-cadence",
+      "sub_function": "Decision Cadence",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    },
+    {
+      "slug": "follow-through",
+      "sub_function": "Follow-through",
+      "titles": [
+        "Chief of Staff",
+        "Deputy Chief of Staff",
+        "Executive Director",
+        "Strategic Projects Lead",
+        "Executive Operations Manager"
+      ]
+    }
+  ]
+}
