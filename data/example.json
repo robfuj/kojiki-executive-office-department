@@ -1,0 +1,46 @@
+{
+  "decision_object": {
+    "decision_id": "EXO-2026-007",
+    "decision_name": "Cross-functional launch decision",
+    "owning_function": "Executive Office / Chief of Staff",
+    "decision_owner_role": "Chief of Staff",
+    "trigger_condition": "Product launch needs go/no-go across 8 functions",
+    "current_state": "Decisions scattered; no owner",
+    "required_inputs": [
+      "function sign-offs",
+      "evidence",
+      "dissenting views"
+    ],
+    "evidence_threshold": "All function leads + evidence recorded",
+    "available_options": [
+      "Go",
+      "No-go",
+      "Conditional",
+      "Defer"
+    ],
+    "decision_criteria": "Evidence-backed, owner-assigned",
+    "constraints": "Capture dissent",
+    "risk_level": "high",
+    "delegation_level": "Recommend",
+    "escalation_conditions": "Functions in unresolved conflict",
+    "expected_outcome": "Recorded decision + owner + review trigger",
+    "verification_method": "Decision record in learning/ + revisit date",
+    "actual_outcome": "Go; owner assigned; 90-day review",
+    "learning_extracted": "Decisions without a recorded owner stall",
+    "rule_version": "EXO-RULE-002",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Cross-functional product launch go/no-go",
+    "decision": "Route + record (Go)",
+    "assumption": "All functions can sign off",
+    "action": "Collect sign-offs; assign owner; set review",
+    "expected_result": "Recorded decision + owner",
+    "actual_result": "Go; owner; 90-day review",
+    "variance": "Confirmed coordination gap",
+    "cause": "No single decision record previously",
+    "learning": "Every important decision needs a recorded owner + review date",
+    "rule_update": "Mandate decision record (owner + review trigger) for cross-functional decisions"
+  },
+  "orientation_required": true
+}

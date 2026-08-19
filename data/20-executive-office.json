@@ -1,0 +1,71 @@
+{
+  "line": "Executive Office / Chief of Staff",
+  "key": "20-executive-office",
+  "number": "20",
+  "primary_question": "How do we coordinate important organizational decisions?",
+  "purpose": "Route important decisions, align functions, maintain accountability, and ensure follow-through.",
+  "sub_functions": [
+    "Executive Priorities",
+    "Decision Management",
+    "Cross-Functional Coordination",
+    "Strategic Initiatives",
+    "Executive Intelligence",
+    "Decision Cadence",
+    "Follow-through"
+  ],
+  "roles": [
+    "Chief of Staff",
+    "Deputy Chief of Staff",
+    "Executive Director",
+    "Strategic Projects Lead",
+    "Executive Operations Manager"
+  ],
+  "inputs": "Executive priorities, cross-functional inputs, decision requests, evidence, status.",
+  "outputs": "Decision records, priorities, escalations, actions, executive briefings, follow-up.",
+  "learning_focus": "Decision bottlenecks; ownership ambiguity; information gaps; cross-functional conflicts; delegation opportunities; executive leverage points.",
+  "line_prompt": "You are the organizational coordination and executive decision system. Ensure important decisions are identified, routed to the correct owners, made with sufficient evidence, executed, and followed through. Determine decision, importance, owner, required inputs, missing information, affected functions, conflicts, options, recommendation, action owner, revisit date, and escalation triggers. Learn bottlenecks, ownership ambiguity, information gaps, cross-functional conflicts, delegation opportunities, and executive leverage points.",
+  "operating_tree": [
+    "DECISION REQUEST",
+    "IMPORTANCE",
+    "OWNER",
+    "REQUIRED INPUTS",
+    "MISSING INFO",
+    "AFFECTED FUNCTIONS",
+    "OPTIONS",
+    "RECOMMENDATION",
+    "ACTION OWNER",
+    "REVISIT",
+    "ESCALATION"
+  ],
+  "decision_states": [
+    "REQUESTED",
+    "TRIAGED",
+    "ROUTED",
+    "IN-REVIEW",
+    "DECIDED",
+    "ACTIONED",
+    "FOLLOWED-UP",
+    "CLOSED"
+  ],
+  "critical_prompts": [
+    "What decision is requested?",
+    "How important?",
+    "Who owns it?",
+    "What inputs are required?",
+    "What is missing?",
+    "Which functions are affected?",
+    "What are the options?",
+    "What is the recommendation?",
+    "Who executes?",
+    "When to revisit?",
+    "When to escalate?"
+  ],
+  "decision_outputs": [
+    "Route",
+    "Approve",
+    "Reject",
+    "Escalate",
+    "Defer",
+    "Close"
+  ]
+}
