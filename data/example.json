@@ -28,7 +28,7 @@
     "actual_outcome": "Go; owner assigned; 90-day review",
     "learning_extracted": "Decisions without a recorded owner stall",
     "rule_version": "EXO-RULE-002",
-    "last_reviewed": "2026-08-18"
+    "last_reviewed": "2026-08-19"
   },
   "learning_ledger": {
     "case": "Cross-functional product launch go/no-go",
